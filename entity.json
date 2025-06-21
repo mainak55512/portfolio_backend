@@ -1,0 +1,50 @@
+[
+{
+	"name":        "Stto",
+	"description": "A command-line code insight tool written in Golang",
+	"path":       "demo/path",
+	"tech":           "Golang"
+},
+{
+	"name":        "Rjq",
+	"description": "jq clone written in rust for windows and linux",
+	"path":       "demo/path",
+	"tech":           "rust"
+},
+{
+	"name":        "SnowIT",
+	"description": "A telegram bot that eases out SNOW ticket query with the help of llms",
+	"path":       "demo/path",
+	"tech":           "rust"
+},
+{
+	"name":        "Test Project Name",
+	"description": "Test Project Description",
+	"path":       "test path",
+	"tech":           "test"
+},
+{
+	"name":        "new Project Name",
+	"description": "Test Project Description",
+	"path":       "test path",
+	"tech":           "test"
+},
+{
+	"name":        "SnowIT",
+	"description": "A telegram bot that eases out SNOW ticket query with the help of llms",
+	"path":       "demo/path",
+	"tech":           "rust"
+},
+{
+	"name":        "Test Project Name",
+	"description": "Test Project Description",
+	"path":       "test path",
+	"tech":           "test"
+},
+{
+	"name":        "new Project Name",
+	"description": "Test Project Description",
+	"path":       "test path",
+	"tech":           "test"
+}
+]
