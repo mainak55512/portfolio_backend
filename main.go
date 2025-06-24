@@ -14,6 +14,7 @@ type Entity struct {
 	ProjectDescription string `json:"description"`
 	ResourcePath       string `json:"path"`
 	UsedTech           string `json:"tech"`
+	Thumbnail          string `json:"thumbnail"`
 }
 
 type Blogs struct {

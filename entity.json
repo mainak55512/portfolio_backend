@@ -1,50 +1,30 @@
 [
-{
-	"name":        "Stto",
-	"description": "A command-line code insight tool written in Golang",
-	"path":       "demo/path",
-	"tech":           "Golang"
-},
-{
-	"name":        "Rjq",
-	"description": "jq clone written in rust for windows and linux",
-	"path":       "demo/path",
-	"tech":           "rust"
-},
-{
-	"name":        "SnowIT",
-	"description": "A telegram bot that eases out SNOW ticket query with the help of llms",
-	"path":       "demo/path",
-	"tech":           "rust"
-},
-{
-	"name":        "Test Project Name",
-	"description": "Test Project Description",
-	"path":       "test path",
-	"tech":           "test"
-},
-{
-	"name":        "new Project Name",
-	"description": "Test Project Description",
-	"path":       "test path",
-	"tech":           "test"
-},
-{
-	"name":        "SnowIT",
-	"description": "A telegram bot that eases out SNOW ticket query with the help of llms",
-	"path":       "demo/path",
-	"tech":           "rust"
-},
-{
-	"name":        "Test Project Name",
-	"description": "Test Project Description",
-	"path":       "test path",
-	"tech":           "test"
-},
-{
-	"name":        "new Project Name",
-	"description": "Test Project Description",
-	"path":       "test path",
-	"tech":           "test"
-}
+	{
+		"name": "Stto",
+		"description": "A command-line code insight tool written in Golang",
+		"path": "https://github.com/mainak55512/stto",
+		"tech": "Golang",
+		"thumbnail": "/resource/stto.jpeg"
+	},
+	{
+		"name": "Rjq",
+		"description": "jq clone written in rust for windows and linux",
+		"path": "https://github.com/mainak55512/rjq",
+		"tech": "rust",
+		"thumbnail": "/resource/rjq.jpeg"
+	},
+	{
+		"name": "SnowIT",
+		"description": "A telegram bot that eases out SNOW ticket query with the help of llms",
+		"path": "https://github.com/mainak55512/AgenticAI",
+		"tech": "TypeScript, langChain, LangGraph, llms",
+		"thumbnail": "/resource/snowIT.jpeg"
+	},
+	{
+		"name": "Scripting in UI Builder",
+		"description": "Comprehensive document exploring different areas of scripting in ServiceNow UI Builder",
+		"path": "https://github.com/mainak55512/Scripting-in-ServiceNow-UI-Builder",
+		"tech": "Text Document",
+		"thumbnail": "/resource/UIBuilder.jpeg"
+	}
 ]

@@ -1,17 +1,12 @@
 [
 	{
-		"title": "First Blog",
-		"url": "test url",
-		"thumbnail": "test thumbnail path"
+		"title": "Introducing RJQ!",
+		"url": "https://dev.to/mainak55512/introducing-rjq-a-fast-and-lightweight-cli-json-filtering-tool-2ifo",
+		"thumbnail": "/resource/rjq_blog.png"
 	},
 	{
-		"title": "Second Blog",
-		"url": "test url",
-		"thumbnail": "test thumbnail path"
-	},
-	{
-		"title": "Third Blog",
-		"url": "test url",
-		"thumbnail": "test thumbnail path"
+		"title": "From Regex Rampage to Lazy Bliss",
+		"url": "https://dev.to/mainak55512/from-regex-rampage-to-lazy-bliss-my-rjq-performance-adventure-5bih",
+		"thumbnail": "/resource/blog_2.png"
 	}
 ]
